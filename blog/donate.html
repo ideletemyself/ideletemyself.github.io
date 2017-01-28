@@ -24,7 +24,7 @@ permalink: /donate/
     </div>
   </div>
 
-    <div class="row">
+    <div class="row text-center">
         {% for donation in site.data.donation.donationlist %}
         {% assign loopindex = forloop.index | modulo: 2 %}
         <div class="col-sm-4 {% if loopindex == 1 %}col-sm-offset-2{% endif %}">
