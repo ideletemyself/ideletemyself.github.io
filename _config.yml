@@ -23,7 +23,7 @@ author:  # change following line to your infomation
     - name: icon-archlinux
     - name: icon-cplusplus
   skill_icon2:
-    - name: fa-windows
+    - name: fa fa-windows
     - name: icon-osx
   desc: 'A seasoned hardware technician with a good amount of programming knowledge as well.'
 
