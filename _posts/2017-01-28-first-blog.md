@@ -1,22 +1,24 @@
 ---
 layout: post
-title:  "我的第一篇博客"
-desc: "我的第一篇jekyll博客"
-keywords: "jekyll,blog,first"
-date: 2015-01-08
-categories: [Life]
+title:  "Online Resume Launched"
+desc: "The story of launching my resume online for prospects to view."
+keywords: "jobs,job,resume,portfolio"
+date: 2017-01-28
+categories: [Work]
 tags: [blog]
 icon: fa-bookmark-o
 ---
 
-喜欢写Blog的人，会经历三个阶段。
+# The Launch Of My Online Resume & portfolio
 
-```
-第一阶段，刚接触Blog，觉得很新鲜，试着选择一个免费空间来写。
-第二阶段，发现免费空间限制太多，就自己购买域名和空间，搭建独立博客。
-第三阶段，觉得独立博客的管理太麻烦，最好在保留控制权的前提下，让别人来管，自己只负责写文章。
-```
+These days it takes a bit extra effort to stand out from the pack. An ever growing and competitive pack. Luckily web technologies have advanced to the degree that creating an online resume or project portfolio for prospective jobs and clients to view is easier than ever before. With the help of free services like [Github Pages](https://pages.github.com/) and software like [Jekyll.rb](https://jekyllrb.com/) there's no need for securing your own webhosting services for such a small, yet these days vital, project. With such an active web community of creators there's a wealth of options for boilerplates, assets and so much more.
 
-转自[阮一峰](http://www.ruanyifeng.com/)的博文。
+### Why Bother?
 
-从第一份运维工作开始，就开始写笔记，有用过印象笔记，有道云笔记，gist，后来也开始写博客，那时候是在CSDN上面注册了一个账号，写了有几个月见见的也荒废了；再后来，想自己搞个云主机，在[阿里云](http://aliyun.com)上租了一台主机，一个月￥60，先是用wordpress，感觉可定制功能不强，因为是PHP写的，个人主要学习Python，所以感觉自己用Django写了一个博客，在15年双十一，云主机降价，花了一半的价钱（￥200）在美团云上买了一台1C、1G、1MB带宽的主机，至此也了解了阿里云和美团云的一些不同之处，美团云主打的是纯净的系统，而阿里云应用市场比较丰富。现在准备把自己的博客迁移到[github](http://github.com)上，在学习了markdown入门和jekyll基础后，目前博客已经初步成立，同时完善了我的一些文章，希望今后能够勤写文章。
+The job market is a competitive place. Moreso than ever before many say. Some bosses and human resource types routinely have stacks of applicants all vying for the same position. How do they cut the wheat from the chaff? Just image how much text that person has to read. If you can make that job easier and stand out by adding graphics instead of just text that will make an impression. When you can refer a person to a website to view instead of just linking a PDF in an email it shows you have at least some skill and initiative.
+
+### Why Not Give It A Try?!
+
+If you're in an ever more common position and need to start sending out resume's I urge you to consider creating an online resume as well. [Google](https://www.google.com) is your friend or [DuckDuckGo](https://duckduckgo.com/) if that's more your thing. Either way there are plenty of guides showing how to get started. Then look at the many themes available. Choose one and off you go!
+
+**_Brandon_**
