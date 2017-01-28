@@ -1,0 +1,42 @@
+# skills section data
+- name: Python
+  percentage: 30
+
+- name: HTML/CSS
+  percentage: 65
+
+- name: Linux/Shell
+  percentage: 75
+
+- name: jQuery
+  percentage: 50
+
+- name: Ruby
+  percentage: 30
+
+- name: Windows OS
+  percentage: 95
+
+- name: Mac OS
+  percentage: 85
+
+- name: Computer Hardware Problem Solving
+  percentage: 90
+
+- name: Network Troubleshooting
+  percentage: 85
+
+- name: Phone System Management
+  percentage: 75
+
+- name: Microsoft Office Applications
+  percentage: 85
+
+- name: Adobe Photoshop
+  percentage: 75
+
+- name: Adobe Illustrator
+  percentage: 80
+
+- name: Adobe InDesign
+  percentage: 65

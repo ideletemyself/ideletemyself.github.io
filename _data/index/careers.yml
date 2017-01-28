@@ -1,0 +1,30 @@
+# careers section data
+# if you don't have language feature(language.yml is empty), ignore "i18n" items
+- name:
+    detail: Norwall PowerSystems
+    i18n: nextcode
+  desc:
+    detail: Performed the role of general IT helpdesk for all network & workstation issues as well as Microsoft Office & Adobe Creative Suite/Cloud task as needed.
+    i18n: nextcode_des
+  date:
+    detail: Sept. 2014
+    i18n: nextcode_date
+  job:
+    detail: IT Helpdesk Technician
+    i18n: nextcode_job
+  icon: fa-laptop
+
+- name:
+    detail: Streaming Media Hosting
+    i18n: netease
+  desc:
+    detail: Helped customers with setup & diagnosis of any issues with their live streaming service for their websites.
+    i18n: netease_des
+  date:
+    detail: Jul. 2012
+    i18n: netease_date
+  job:
+    detail: IT Support Technician
+    i18n: netease_job
+  icon: fa-server
+

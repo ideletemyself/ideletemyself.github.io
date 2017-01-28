@@ -1,0 +1,16 @@
+# blog page sections
+- name: Blog
+  href: '/blog/'
+
+# edit following lines to custom your blog page, make sure name is the same as href but capitalized first letter(except HTML)
+- name: Linux
+  href: '/linux/'
+
+- name: Music
+  href: '/music/'
+
+- name: Opinion
+  href: '/opinion/'
+
+- name: Donate
+  href: '/donate/'

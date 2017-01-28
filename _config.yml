@@ -1,0 +1,53 @@
+# Welcome to Jekyll!
+
+# Website settings
+title: Brandon Carrol McKimmons Resume & Portfolio
+description: The resume & online portfolio for Brandon Carrol McKimmons.
+keywords: 'resume,portfolio,job,jobs,skill,skills'
+baseurl: ''  # if you have suburl as homepage like '/homepage', please change it to '/homepage'
+url: 'https://ideletemyself.github.io/'  # url should be changed to 'http://www.jack003.com/homepage' as before
+# url: "http://127.0.0.1:4000"
+img_path: '/static/assets/img/blog'  # url should be changed to 'homepage/static/assets/img/blog' as before
+
+# author -- index page "about me" section
+author:  # change following line to your infomation
+  name: 'Brandon Carrol McKimmons'
+  first_name: 'Brandon'
+  last_name: 'McKimmons'
+  cv: ''
+  email: 'bmckimmons@me.com'
+  facebook_username: 'ideletemyself'
+  github_username: 'ideletemyself'
+  avatar: '/static/assets/img/landing/avatar.jpg'
+  skill_icon1:
+    - name: icon-python
+    - name: icon-shell
+  skill_icon2:
+    - name: icon-angular
+    - name: icon-docker
+  desc: 'A seasoned hardware technician with a good amount of programming knowledge as well.'
+
+# comment
+disqus:  # if you wanna comment feature, go to https://disqus.com/ to get your configuration; if not, comment following two lines.
+  name: ideletemyself
+  public_key: PhHp9DjykaQOEGBXCo7CvXpBCUXrE6mXF4BcwOE8lkUmblNDdnbVIVi2NM2CUVNM
+
+# analytics
+## google analytics
+ga:  # if you wanna this feature, go to https://www.google.com/analytics/ to get your configuration; if not, comment following line.
+  id: UA-91027545-1
+
+## growingIO
+gio:  # if you wanna this feature, go to https://www.growingio.com/ to get your configuration; if not, comment following line.
+  # id: a49d4901c7853da9
+
+
+# Build settings
+encoding: "utf-8"
+
+# other settings
+highlighter: rouge
+markdown: kramdown
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
