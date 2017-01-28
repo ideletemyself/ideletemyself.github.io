@@ -20,11 +20,11 @@ author:  # change following line to your infomation
   github_username: 'ideletemyself'
   avatar: '/static/assets/img/landing/avatar.jpg'
   skill_icon1:
-    - name: icon-python
+    - name: icon-archlinux
     - name: icon-cplusplus
   skill_icon2:
-    - name: icon-angular
-    - name: icon-docker
+    - name: fa-windows
+    - name: icon-osx
   desc: 'A seasoned hardware technician with a good amount of programming knowledge as well.'
 
 # comment
