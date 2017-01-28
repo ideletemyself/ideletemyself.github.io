@@ -21,7 +21,7 @@ author:  # change following line to your infomation
   avatar: '/static/assets/img/landing/avatar.jpg'
   skill_icon1:
     - name: icon-python
-    - name: icon-shell
+    - name: icon-photoshop
   skill_icon2:
     - name: icon-angular
     - name: icon-docker
