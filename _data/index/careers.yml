@@ -28,3 +28,30 @@
     i18n: netease_job
   icon: fa-server
 
+- name:
+    detail: Jim Scott Studios
+    i18n: netease
+  desc:
+    detail: Built a state of the art digital recording studio and acted as chief recording & sound engineer. Also took care of any IT task that would come up. Minor website updates as well.
+    i18n: netease_des
+  date:
+    detail: May 2010
+    i18n: netease_date
+  job:
+    detail: Media Engineer
+    i18n: netease_job
+  icon: fa-music
+
+- name:
+    detail: PDQ Food Stores, Inc.
+    i18n: netease
+  desc:
+    detail: Acted as the main IT helpdesk technician for all PDQ gas station and convenience store IT issues as well as all in office IT problems. This includes the setup and diagnosis of Point-Of-Sale systems.
+    i18n: netease_des
+  date:
+    detail: Jan 2009
+    i18n: netease_date
+  job:
+    detail: IT Technician
+    i18n: netease_job
+  icon: fa-car
