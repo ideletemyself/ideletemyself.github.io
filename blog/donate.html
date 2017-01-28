@@ -18,30 +18,12 @@ permalink: /donate/
         <div class="col-sm-8 col-sm-offset-2">
             <h2 class="text-center m">Patreon</h2>
             <div class="slick">
-
-                <div>
-                    <div class="ibox-content">
-                        <a href="https://www.patreon.com/bePatron?u=4952435" data-patreon-widget-type="become-patron-button">Become a Patron!</a><script async src="https://cdn6.patreon.com/becomePatronButton.bundle.js"></script>
-                    </div>
-                </div>
-
+              <a href="https://www.patreon.com/bePatron?u=4952435" data-patreon-widget-type="become-patron-button">Become a Patron!</a><script async src="https://cdn6.patreon.com/becomePatronButton.bundle.js"></script>
             </div>
         </div>
     </div>
-    <!-- <div class="row">
-        <div class="col-sm-8 col-sm-offset-2">
-            <h2 class="text-center m">WeChat Pay</h2>
-            <div class="slick">
-                {% for wechat in site.data.donation.wechat_pay %}
-                <div>
-                    <div class="ibox-content">
-                        <img src="{{ wechat.name | prepend: '/static/assets/img/donate/' | prepend : site.baseurl }}" width="100%">
-                    </div>
-                </div>
-                {% endfor %}
-            </div>
-        </div>
-    </div> -->
+  </div>
+
     <div class="row">
         {% for donation in site.data.donation.donationlist %}
         {% assign loopindex = forloop.index | modulo: 2 %}
