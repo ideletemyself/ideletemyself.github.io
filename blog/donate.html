@@ -8,15 +8,15 @@ permalink: /donate/
 <div class="row">
     <div class="col-sm-8 col-sm-offset-2 text-center">
         <div class="navy-line"></div>
-        <h1>Donate Jalpc</h1>
-        <h3>If you like this theme and want to support it, just donate it. We can make Jalpc better!</h3>
+        <h1>Donate To Me</h1>
+        <h3>If you like what I do and want to help support, just donate. Thanks!</h3>
     </div>
 </div>
 
 <div class="wrapper wrapper-content animated pulse">
     <div class="row">
         <div class="col-sm-8 col-sm-offset-2">
-            <h2 class="text-center m">Alipay</h2>
+            <h2 class="text-center m">Patreon</h2>
             <div class="slick">
                 {% for alipay in site.data.donation.alipay %}
                 <div>
@@ -28,7 +28,7 @@ permalink: /donate/
             </div>
         </div>
     </div>
-    <div class="row">
+    <!-- <div class="row">
         <div class="col-sm-8 col-sm-offset-2">
             <h2 class="text-center m">WeChat Pay</h2>
             <div class="slick">
@@ -41,7 +41,7 @@ permalink: /donate/
                 {% endfor %}
             </div>
         </div>
-    </div>
+    </div> -->
     <div class="row">
         {% for donation in site.data.donation.donationlist %}
         {% assign loopindex = forloop.index | modulo: 2 %}
