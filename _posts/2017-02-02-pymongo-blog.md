@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Adventures In Python Web Blogging"
+title:  "Adventures In Python Web Blogging Part 1"
 desc: "The ups and downs of using python ORMs & why I decided not to use any."
 keywords: "python, flask, mongodb, web dev, ORM"
 date: 2017-02-02
