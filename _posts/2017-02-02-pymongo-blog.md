@@ -10,8 +10,6 @@ icon: fa-bookmark-o
 ---
 
 
-<h1 style="text-align: center;">Adventures In Python Web Blogging</h1>
-
 <div style="text-align: center;">
 <img align="center" src="https://ideletemyself.github.io/static/assets/img/blog/blog images/Python_logo.svg.png" alt="Python"></div>
 <br>
