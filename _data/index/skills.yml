@@ -1,18 +1,24 @@
 # skills section data
 - name: Python
-  percentage: 30
+  percentage: 50
 
-- name: HTML/CSS
-  percentage: 65
-
-- name: Linux/Shell
+- name: HTML
   percentage: 75
+
+- name: CSS
+  percentage: 75
+
+- name: Javascript
+  percentage: 50
 
 - name: jQuery
   percentage: 50
 
 - name: Ruby
   percentage: 30
+
+- name: Linux
+  percentage: 85
 
 - name: Windows OS
   percentage: 95
