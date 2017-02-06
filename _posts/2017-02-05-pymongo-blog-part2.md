@@ -14,7 +14,7 @@ icon: fa-bookmark-o
 
 The famous phrase has been spoken for hundreds of years. Almost nine hundred by 
 some [estimates](https://en.wikipedia.org/wiki/Standing_on_the_shoulders_of_giants). 
-It's most famous user, however, is [Isaac Newton](https://en.wikipedia.org/wiki/Isaac_Newton). What's not known by
+It's most famous speaker, however, is [Isaac Newton](https://en.wikipedia.org/wiki/Isaac_Newton). What's not known by
 most is the controversy surrounding the quote by Newton. The prevailing [theory](https://www.brainpickings.org/2016/02/16/newton-standing-on-the-shoulders-of-giants/) has
 been that Newton was trying to complement the person the letter containing the quote was for, [Robert Hooke](https://en.wikipedia.org/wiki/Robert_Hooke).
 By telling Hooke that without his work on colors and light that he, Newton, wouldn't 
