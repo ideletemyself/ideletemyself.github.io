@@ -34,14 +34,19 @@ packages that had depricated like:
 from flask.ext.login 
 ```
 to
+
 ```python
 from flask_login
 ```
+
 and
+
 ```python
 from flask.ext.wtf
 ```
+
 to
+
 ```python
 from flask_wtf
 ```
