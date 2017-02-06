@@ -31,11 +31,25 @@ Coletta on GitHub. It didn't take much to get going. Just had to update some of 
 packages that had depricated like:
 
 ```python
-from flask.ext.login to from flask_login 
+from flask.ext.login 
 ```
-and
+
+to
+
 ```python
-from flask.ext.wtf to from flask_wtf
+from flask_login
+```
+
+and
+
+```python
+from flask.ext.wtf
+```
+
+to
+
+```python
+from flask_wtf
 ```
 
 Gutted the file `config.py` but left it just in case since it'd be easy to get rid of later.
