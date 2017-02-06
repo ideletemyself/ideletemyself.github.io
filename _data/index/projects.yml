@@ -1,9 +1,16 @@
 # projects section data
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
-- name: 'Temp Project'
+- name: 'Brandon Carrol McKimmons Online Resume & Portfolio'
   i18n: 'saplatform'
   gh_user: 'ideletemyself'
   repo: 'ideletemyself.github.io'
   img: '/static/assets/img/landing/github-icon.png'
-  desc: 'A temporary project to be filled out later.'
+  desc: 'The very blog you're looking at now.'
+
+- name: 'PyMongo-Blog'
+  i18n: 'saplatform'
+  gh_user: 'ideletemyself'
+  repo: 'PyMongo-Blog'
+  img: '/static/assets/img/landing/github-icon.png'
+  desc: 'A micro blog built using pure Flask-PyMongo.'
 
