@@ -116,6 +116,7 @@ looks like, it's showing a list of blogs:
 Overall I'm pretty happy so far with where I'm at. I made a few small improvements while watching/listening to the [Superbowl](https://twitter.com/SuperBowl)
 today. Stuff like adding any commenting at all. Heh Heh. I'm usually better with stuff like that but I was so busy working on 
 the nuts and bolts of it. So *usually* I try to comment everywhere possible. The list of things left to do is rather long still.
+Like adding all the functionality for the `settings` page where the user will be able to change their email or password if they want to.
 This is a good place to stop for now though. I'll be updating this project throughout this week.
 
 # *To Be Continued...*
