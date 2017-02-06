@@ -11,6 +11,6 @@
   i18n: 'saplatform'
   gh_user: 'ideletemyself'
   repo: 'PyMongo-Blog'
-  img: '/static/assets/img/landing/github-icon.png'
+  img: '/static/assets/img/landing/python_badge.png'
   desc: 'A micro blog built using pure Flask-PyMongo.'
 
