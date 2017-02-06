@@ -103,7 +103,7 @@ After a little tweaking this was my result:
 <br>
 
 Not too shabby... Well now the blog and post routes were just begging to be created. You can check out
-the code on my GitHub for the rest as this isn't really a step by step tutorial, it's my story.
+the code on [my GitHub](https://github.com/ideletemyself/PyMongo-Blog) for the rest as this isn't really a step by step tutorial, it's my story.
 So after quite a bit of effort on my part I managed to get a user to be able to register to the MongoDB database, then login or login
 if they already had an account, create new blogs along with new postings within each blog. Here's what the main blogs page
 looks like, it's showing a list of blogs:
@@ -113,7 +113,7 @@ looks like, it's showing a list of blogs:
 <br>
 
 
-Overall I'm pretty happy so far with where I'm at. I made a few small improvements while watching/listening to the Superbowl
+Overall I'm pretty happy so far with where I'm at. I made a few small improvements while watching/listening to the [Superbowl](https://twitter.com/SuperBowl)
 today. Stuff like adding any commenting at all. Heh Heh. I'm usually better with stuff like that but I was so busy working on 
 the nuts and bolts of it. So *usually* I try to comment everywhere possible. The list of things left to do is rather long still.
 This is a good place to stop for now though. I'll be updating this project throughout this week.
