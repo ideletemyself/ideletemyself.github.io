@@ -5,9 +5,9 @@ title: Brandon Carrol McKimmons Resume & Portfolio
 description: The resume & online portfolio for Brandon Carrol McKimmons.
 keywords: 'resume,portfolio,job,jobs,skill,skills'
 baseurl: ''  # if you have suburl as homepage like '/homepage', please change it to '/homepage'
-url: 'https://ideletemyself.github.io/'  # url should be changed to 'http://www.jack003.com/homepage' as before
+url: 'https://ideletemyself.github.io/'  
 # url: "http://127.0.0.1:4000"
-img_path: '/static/assets/img/blog'  # url should be changed to 'homepage/static/assets/img/blog' as before
+img_path: '/static/assets/img/blog'  
 
 # author -- index page "about me" section
 author:  # change following line to your infomation
