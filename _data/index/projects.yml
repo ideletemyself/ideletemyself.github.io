@@ -5,12 +5,12 @@
   gh_user: 'ideletemyself'
   repo: 'ideletemyself.github.io'
   img: '/static/assets/img/landing/github-icon.png'
-  desc: 'The very blog you're looking at now'
+  desc: 'The very blog you are looking at now.'
 
 - name: 'PyMongo-Blog'
   i18n: 'saplatform'
   gh_user: 'ideletemyself'
   repo: 'PyMongo-Blog'
   img: '/static/assets/img/landing/github-icon.png'
-  desc: 'A micro blog built using pure Flask-PyMongo'
+  desc: 'A micro blog built using pure Flask-PyMongo.'
 
