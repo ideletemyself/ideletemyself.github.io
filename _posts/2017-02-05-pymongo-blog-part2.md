@@ -9,7 +9,7 @@ tags: [blog]
 icon: fa-bookmark-o
 ---
 
-<h1 style="text-align: center;">Standing On Shoulders</h1>
+<h1 style="text-align: center;">Standing On The Shoulders Of Giants</h1>
 <br>
 
 The famous phrase has been spoken for hundreds of years. Almost nine hundred by 
