@@ -55,8 +55,19 @@ from flask_wtf
 Gutted the file `config.py` but left it just in case since it'd be easy to get rid of later.
 Added my own `database.py` to the *app* directory. Deleted the old `populateDB.py` file.
 Updated the `view.py` file to use my new MongoDB database object *Database* in the login route and then 
-ran the `run-dev.py` file to see if it worked. After probably fixing some minor changes (I can't 
-exactly remember at this point anymore, lol) this is what awaited me in [Firefox](https://www.mozilla.org/en-US/firefox/new/):
+ran the `run-dev.py` file to see if it worked. After adding the decorator code: 
+
+```python
+def login_required(f):
+    @wraps(f)
+    def decorated_function(*args, **kwargs):
+        if g.user is None:
+            return redirect(url_for('login', next=request.url))
+        return f(*args, **kwargs)
+    return decorated_function
+```
+
+to the *init* file, this is what awaited me in [Firefox](https://www.mozilla.org/en-US/firefox/new/):
 
 <div style="text-align: center;">
 <img align="center" src="https://ideletemyself.github.io/static/assets/img/blog/blog images/pymongo-ss1.png" alt="PyMongo-Blog"></div>
@@ -64,6 +75,48 @@ exactly remember at this point anymore, lol) this is what awaited me in [Firefox
 
 Success!
 
+The nav bar was updated to show the `register` and `login` links depending on if they're logging in or not.
+I also updated the [Bootstrap](http://getbootstrap.com/) and [jQuery](https://jquery.com/) files while I was at it. The next step was to add 
+the `blog.py` and `post.py` files from an old project along with their html template files. I then
+had to add the `RegistrationForm`, `BlogForm` and `PostForm` classes to the `forms.py` file.
+
+Some love had to be shown to the routes in `views.py` so I added the functionality to register
+a new user with this code:
+
+```python
+@app.route('/auth/register', methods=['GET', 'POST'])
+def register_user():
+    form = RegistrationForm(request.form)
+    if request.method == 'POST' and form.validate():
+        User.register(form.email.data, form.password.data)
+        User.login(form.email.data)
+        flash("Registered successfully!", category='success')
+        return redirect(request.args.get("next") or url_for("login"))
+    else:
+        return render_template('register.html', form=form)
+```
+
+After a little tweaking this was my result:
+
+<div style="text-align: center;">
+<img align="center" src="https://ideletemyself.github.io/static/assets/img/blog/blog images/pymongo-ss4.png" alt="PyMongo-Blog regisration page"></div>
+<br>
+
+Not too shabby... Well now the blog and post routes were just begging to be created. You can check out
+the code on my GitHub for the rest as this isn't really a step by step tutorial, it's my story.
+So after quite a bit of effort on my part I managed to get a user to be able to register to the MongoDB database, then login or login
+if they already had an account, create new blogs along with new postings within each blog. Here's what the main blogs page
+looks like, it's showing a list of blogs:
+
+<div style="text-align: center;">
+<img align="center" src="https://ideletemyself.github.io/static/assets/img/blog/blog images/pymongo-ss2.png" alt="PyMongo-Blog blogs list"></div>
+<br>
+
+
+Overall I'm pretty happy so far with where I'm at. I made a few small improvements while watching/listening to the Superbowl
+today. Stuff like adding any commenting at all. Heh Heh. I'm usually better with stuff like that but I was so busy working on 
+the nuts and bolts of it. So *usually* I try to comment everywhere possible. The list of things left to do is rather long still.
+This is a good place to stop for now though. I'll be updating this project throughout this week.
 
 # *To Be Continued...*
 
