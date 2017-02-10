@@ -21,7 +21,7 @@ author:  # change following line to your infomation
   avatar: '/static/assets/img/landing/avatar.jpg'
   skill_icon1:
     - name: icon-archlinux
-    - name: icon-cplusplus
+    - name: icon-python
   skill_icon2:
     - name: fa fa-windows
     - name: icon-osx

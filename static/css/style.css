@@ -2,3 +2,7 @@
     color: #aeaeae;
     font-size: 21px
 }
+
+.landing-page .navbar-default .navbar-nav a {
+    color: #000000;
+}
