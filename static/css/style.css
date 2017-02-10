@@ -3,6 +3,10 @@
     font-size: 21px
 }
 
+.landing-page .navbar-default .navbar-nav > .active > a, .landing-page .navbar-default .navbar-nav > .active > a:hover {
+	color: #676a8b;
+}
+
 .landing-page .navbar-default .nav li a {
-	color: #000000;
+	color: #676a6c;
 }
