@@ -7,13 +7,6 @@
   img: '/static/assets/img/landing/github-icon.png'
   desc: 'The very blog you are looking at now.'
 
-- name: 'PyMongo-Blog'
-  i18n: 'saplatform'
-  gh_user: 'ideletemyself'
-  repo: 'PyMongo-Blog'
-  img: '/static/assets/img/landing/python_badge.png'
-  desc: 'A micro blog built using pure Flask-PyMongo.'
-
 - name: 'Havasu-Rentals'
   i18n: 'saplatform'
   gh_user: 'ideletemyself'
@@ -21,3 +14,9 @@
   img: '/static/assets/img/landing/github-icon.png'
   desc: 'A wireframe site to show possibilities.'
 
+- name: 'PyMongo-Blog'
+  i18n: 'saplatform'
+  gh_user: 'ideletemyself'
+  repo: 'PyMongo-Blog'
+  img: '/static/assets/img/landing/python_badge.png'
+  desc: 'A micro blog built using pure Flask-PyMongo.'
