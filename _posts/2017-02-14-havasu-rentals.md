@@ -26,7 +26,7 @@ I had heard of the practice before and had looked into it briefly. Distinctly
 I remember coming across Scrapy and the concept of web spyders I'd heard 
 of before. The people I was working for at the time had other pressing 
 needs and so that project was shelved.
- 
+<br>
 <h1 style="text-align: center;">These Times They Are A Changin'</h1>
 <br>
 
@@ -38,7 +38,7 @@ I haven't got anything to lose. With that spirit in mind I girded myself and
 remembered a potential client a friend had told me about a year or so ago.
 It was a realtor here in Lake Havasu City and apparently they needed help. 
 Maybe I could be that help.
-
+<br>
 <h1 style="text-align: center;">Choices Can Be Tough</h1>
 <br>
 
@@ -51,7 +51,7 @@ Basically their choices were either me, a programmer in India or pay a bunch
 of money to the company who hosts the data for their rent billing system to build
 the website. As with so many choices we make in life, Lord knows I've made em, 
 they made the wrong choice.
-
+<br>
 <h1 style="text-align: center;">Trying To Go That Extra Step</h1>
 <br>
 
@@ -69,7 +69,7 @@ going to be doing from now on. I'm going to just go ahead and build quick mock u
 for businesses and organizations that I like or that I see could use a new website. 
 Might as well kill two birds with one stone and hopefully impress the potential client
 as well as add another project to my portfolio.
-
+<br>
 <h1 style="text-align: center;">Geocities Style!</h1>
 <br>
 
@@ -114,7 +114,7 @@ practices and just plain bad programmers. Oh really, you can pull data from the 
 Marvelous bro, we might as well just learn using API's released by companies themselves. Which I actually 
 am doing and highly recommend. But I want to learn about web scraping and more importantly real world
 use cases in drilling down for text. Drill baby drill! Sorry I had to.
-
+<br>
 <h1 style="text-align: center;">I've Got A Plan</h1>
 <br>
 
