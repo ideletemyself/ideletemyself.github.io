@@ -139,7 +139,7 @@ The reason for that is that I knew I could just pull the source code and get som
 web scraping and dynamic data loading down and working. So I went and started looking at some Bootstrap templates for
 inspiration. I found one called "Modern Business" that looked pretty good and since it was free I went ahead and downloaded it.
 <div style="text-align: center;">
-<img align="center" src="https://ideletemyself.github.io/static/assets/img/blog/blog images/w3schools.png" alt="W3 Schools"></div>
+<img align="center" src="https://ideletemyself.github.io/static/assets/img/blog/blog images/w3schools.jpg" alt="W3 Schools"></div>
 <br>
 
 After a little messing around I started to get something going. Soon though I ran into a road block. The template's Bootstrap 
